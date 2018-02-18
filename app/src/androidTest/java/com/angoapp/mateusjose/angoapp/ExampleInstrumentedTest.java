@@ -1,4 +1,4 @@
-package com.example.mateusjose.newchatos;
+package com.angoapp.mateusjose.angoapp;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

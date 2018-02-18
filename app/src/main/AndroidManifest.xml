@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.mateusjose.newchatos">
+    package="com.angoapp.chatos">
 
     <application
         android:allowBackup="true"
@@ -10,12 +10,12 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity
-            android:name=".Activities.ExchangeMessageActivity"
+            android:name="com.angoapp.chatos.Activities.ExchangeMessageActivity"
             android:label="@string/title_activity_exchange_message"
             android:theme="@style/AppTheme.NoActionBar" />
 
         <activity
-            android:name=".Activities.NavegationDrawerActivity"
+            android:name="com.angoapp.chatos.Activities.NavegationDrawerActivity"
             android:label="@string/title_activity_navegation_drawer"
             android:theme="@style/AppTheme.NoActionBar" >
             <intent-filter>
@@ -26,31 +26,31 @@
 
         </activity>
         <activity
-            android:name=".Menu_Activities.MenuNewChatActivity"
+            android:name="com.angoapp.chatos.Menu_Activities.MenuNewChatActivity"
             android:label="@string/title_activity_menu_new_chat"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
-            android:name=".Menu_Activities.MenuNewGroupChatActivity"
+            android:name="com.angoapp.chatos.Menu_Activities.MenuNewGroupChatActivity"
             android:label="@string/title_activity_menu_new_group_chat"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
-            android:name=".Menu_Activities.MenuPendentsActivity"
+            android:name="com.angoapp.chatos.Menu_Activities.MenuPendentsActivity"
             android:label="@string/title_activity_menu_pendents"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
-            android:name=".Menu_Activities.MenuRecentsActivity"
+            android:name="com.angoapp.chatos.Menu_Activities.MenuRecentsActivity"
             android:label="@string/title_activity_menu_recents"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
-            android:name=".Menu_Activities.MenuBlockedActivity"
+            android:name="com.angoapp.chatos.Menu_Activities.MenuBlockedActivity"
             android:label="@string/title_activity_menu_blocked"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
-            android:name=".Menu_Activities.MenuSettingsActivity"
+            android:name="com.angoapp.chatos.Menu_Activities.MenuSettingsActivity"
             android:label="@string/title_activity_menu_settings"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
-            android:name=".Menu_Activities.MenuInfoActivity"
+            android:name="com.angoapp.chatos.Menu_Activities.MenuInfoActivity"
             android:label="@string/title_activity_menu_info"
             android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>

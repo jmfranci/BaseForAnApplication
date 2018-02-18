@@ -1,4 +1,4 @@
-package com.example.mateusjose.newchatos;
+package com.angoapp.mateusjose.angoapp;
 
 import org.junit.Test;
 
