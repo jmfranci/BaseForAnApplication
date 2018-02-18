@@ -1,10 +1,9 @@
-package com.example.mateusjose.newchatos.Objects;
+package com.angoapp.chatos.Objects;
 
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
-import android.graphics.drawable.BitmapDrawable;
 
-import com.example.mateusjose.newchatos.R;
+import com.angoapp.chatos.R;
 
 /**
  * Created by mateusjose on 2/8/18.

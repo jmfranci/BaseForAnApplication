@@ -1,4 +1,4 @@
-package com.example.mateusjose.newchatos.Fragments;
+package com.angoapp.chatos.Fragments;
 
 import android.content.Intent;
 import android.graphics.BitmapFactory;
@@ -12,11 +12,10 @@ import android.widget.ListView;
 import android.widget.Toast;
 
 
-import com.example.mateusjose.newchatos.Activities.ExchangeMessageActivity;
-import com.example.mateusjose.newchatos.Objects.Contact;
-import com.example.mateusjose.newchatos.Adaptor.ItemAdaptor;
-import com.example.mateusjose.newchatos.Activities.NavegationDrawerActivity;
-import com.example.mateusjose.newchatos.R;
+import com.angoapp.chatos.Activities.ExchangeMessageActivity;
+import com.angoapp.chatos.Objects.Contact;
+import com.angoapp.chatos.Adaptor.ItemAdaptor;
+import com.angoapp.chatos.R;
 
 import java.util.ArrayList;
 import java.util.List;

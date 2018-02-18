@@ -1,4 +1,4 @@
-package com.example.mateusjose.newchatos.Adaptor;
+package com.angoapp.chatos.Adaptor;
 
 import android.content.Context;
 import android.graphics.BitmapFactory;
@@ -11,8 +11,8 @@ import android.view.ViewGroup;
 import android.widget.ArrayAdapter;
 import android.widget.TextView;
 
-import com.example.mateusjose.newchatos.Objects.Contact;
-import com.example.mateusjose.newchatos.R;
+import com.angoapp.chatos.Objects.Contact;
+import com.angoapp.chatos.R;
 
 import java.util.List;
 

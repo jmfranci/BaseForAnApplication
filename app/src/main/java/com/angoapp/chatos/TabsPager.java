@@ -1,13 +1,12 @@
-package com.example.mateusjose.newchatos;
+package com.angoapp.chatos;
 
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
-import android.support.v4.app.FragmentPagerAdapter;
 import android.support.v4.app.FragmentStatePagerAdapter;
 
-import com.example.mateusjose.newchatos.Fragments.FragmentTabContacts;
-import com.example.mateusjose.newchatos.Fragments.FragmentTabExplor;
-import com.example.mateusjose.newchatos.Fragments.FragmentTabMessages;
+import com.angoapp.chatos.Fragments.FragmentTabContacts;
+import com.angoapp.chatos.Fragments.FragmentTabExplor;
+import com.angoapp.chatos.Fragments.FragmentTabMessages;
 
 /**
  * Created by mateusjose on 2/15/18.

@@ -1,13 +1,10 @@
-package com.example.mateusjose.newchatos.Activities;
+package com.angoapp.chatos.Activities;
 
 import android.content.Intent;
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;
 import android.support.design.widget.Snackbar;
 import android.support.design.widget.TabLayout;
-import android.support.v4.app.Fragment;
-import android.support.v4.app.FragmentManager;
-import android.support.v4.app.FragmentPagerAdapter;
 import android.support.v4.view.ViewPager;
 import android.view.View;
 import android.support.design.widget.NavigationView;
@@ -20,18 +17,15 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.widget.Toast;
 
-import com.example.mateusjose.newchatos.Fragments.FragmentTabContacts;
-import com.example.mateusjose.newchatos.Fragments.FragmentTabExplor;
-import com.example.mateusjose.newchatos.Fragments.FragmentTabMessages;
-import com.example.mateusjose.newchatos.Menu_Activities.MenuBlockedActivity;
-import com.example.mateusjose.newchatos.Menu_Activities.MenuInfoActivity;
-import com.example.mateusjose.newchatos.Menu_Activities.MenuNewChatActivity;
-import com.example.mateusjose.newchatos.Menu_Activities.MenuNewGroupChatActivity;
-import com.example.mateusjose.newchatos.Menu_Activities.MenuPendentsActivity;
-import com.example.mateusjose.newchatos.Menu_Activities.MenuRecentsActivity;
-import com.example.mateusjose.newchatos.Menu_Activities.MenuSettingsActivity;
-import com.example.mateusjose.newchatos.R;
-import com.example.mateusjose.newchatos.TabsPager;
+import com.angoapp.chatos.Menu_Activities.MenuPendentsActivity;
+import com.angoapp.chatos.Menu_Activities.MenuRecentsActivity;
+import com.angoapp.chatos.Menu_Activities.MenuBlockedActivity;
+import com.angoapp.chatos.Menu_Activities.MenuInfoActivity;
+import com.angoapp.chatos.Menu_Activities.MenuNewChatActivity;
+import com.angoapp.chatos.Menu_Activities.MenuNewGroupChatActivity;
+import com.angoapp.chatos.Menu_Activities.MenuSettingsActivity;
+import com.angoapp.chatos.R;
+import com.angoapp.chatos.TabsPager;
 
 public class NavegationDrawerActivity extends AppCompatActivity
         implements NavigationView.OnNavigationItemSelectedListener {
