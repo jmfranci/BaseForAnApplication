@@ -7,6 +7,7 @@ import android.view.View;
 
 import com.angoapp.chatos.R;
 
+// This class is for the message exchange phase
 public class ExchangeMessageActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
