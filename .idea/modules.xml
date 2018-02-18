@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/NewChatOS.iml" filepath="$PROJECT_DIR$/NewChatOS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ChatOS.iml" filepath="$PROJECT_DIR$/ChatOS.iml" />
+      <module fileurl="file://C:\Users\jmfranci\Documents\AndroidProjects2018\ChatOS\NewChatOS.iml" filepath="C:\Users\jmfranci\Documents\AndroidProjects2018\ChatOS\NewChatOS.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\jmfranci\Documents\AndroidProjects2018\ChatOS\app\app.iml" filepath="C:\Users\jmfranci\Documents\AndroidProjects2018\ChatOS\app\app.iml" />
     </modules>
   </component>
 </project>

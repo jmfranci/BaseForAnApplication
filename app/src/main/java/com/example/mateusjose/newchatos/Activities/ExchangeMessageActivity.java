@@ -11,6 +11,7 @@ import com.example.mateusjose.newchatos.R;
 
 public class ExchangeMessageActivity extends AppCompatActivity {
 
+    // Test comment
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
